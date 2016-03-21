@@ -1,0 +1,10 @@
+# ipython
+.ipynb_checkpoints/
+
+# gulp task
+dest/
+.publish/
+
+# npm
+node_modules/
+*.log
